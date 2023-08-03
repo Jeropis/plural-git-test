@@ -10,7 +10,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Escribe cualquier cosa");
         String line = sc.nextLine();
-
         System.out.println(line);
 
     }
